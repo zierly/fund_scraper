@@ -1,0 +1,18 @@
+
+.user-box{
+    flex:1;
+    cursor: pointer;
+}
+.user-name{
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+}
+.user-list{
+    display: flex;
+}
+
+h2{
+    margin-top: 80px;
+    text-align: center;
+}
